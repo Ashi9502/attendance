@@ -6,6 +6,7 @@
 </head>
 
 <body>
+
  <header>
   <div class="logo"><img src="./64277794-d4f3-49fe-b7ed-26871933190a.jpg" alt="nophoto"></div>
 
@@ -104,6 +105,8 @@
 
   </form>
  </div>
+  <footer>
+  </footer>
 </body>
 
 </html>
