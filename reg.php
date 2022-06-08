@@ -90,7 +90,12 @@
     </tr>
 
    </table>
-   <div class="add">
+  
+
+  </form>
+ </div>
+  <footer>
+    <div class="add">
     <address>Created by Ashi Chhabra<br>
      For any query<br>
      Visit us at:<br>
@@ -102,10 +107,6 @@
     </address>
    </div>
 
-
-  </form>
- </div>
-  <footer>
   </footer>
 </body>
 
